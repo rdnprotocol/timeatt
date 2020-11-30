@@ -1,0 +1,193 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #3498db;
+  margin: 0 auto 0 auto;
+  width: 100%;
+  text-align: center;
+  margin: 20px 0px 20px 0px;
+}
+p {
+  font-size: 12px;
+  text-decoration: none;
+  color: #ffffff;
+}
+.text {
+  font-size: 12px;
+  text-decoration: none;
+  color: #000000;
+}
+h1 {
+  font-size: 1.5em;
+  color: #525252;
+}
+label {
+  font-size: 14px;
+  color: #000000;
+}
+.box {
+  background: white;
+  width: 300px;
+  border-radius: 6px;
+  margin: 0 auto 0 auto;
+  padding: 0px 0px 70px 0px;
+  border: #2980b9 4px solid;
+}
+.username {
+  background: #ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  width: 250px;
+  color: #aaaaaa;
+  margin-top: 10px;
+  font-size: 1em;
+  border-radius: 4px;
+}
+.button-sign-in {
+  background: #2ecc71;
+  width: 125px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  border-radius: 4px;
+  border: #27ae60 1px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  float: left;
+  margin-left: 88px;
+  font-weight: 800;
+  font-size: 0.8em;
+}
+.fpwd {
+  color: #f1c40f;
+  text-decoration: underline;
+}
+.newuser {
+  color: #f1c40f;
+  text-decoration: underline;
+}
+#absoluteCenteredDiv {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 400px;
+  height: 30px;
+  text-align: center;
+}
+.gender {
+  padding: 4px;
+  width: 30px;
+  color: #aaaaaa;
+  font-size: 14;
+  border-radius: 4px;
+}
+select {
+  background: #ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  width: 270px;
+  color: #aaaaaa;
+  margin-top: 10px;
+  font-size: 1em;
+  border-radius: 4px;
+  position: sticky;
+  top: 0;
+}
+.birthday {
+  background: #ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  width: 250px;
+  color: #aaaaaa;
+  margin-top: 3px;
+  font-size: 1em;
+  border-radius: 4px;
+  position: sticky;
+  top: 0;
+}
+.box1 {
+  background: white;
+  position: relative;
+  top: 0%;
+  width: 300px;
+  border-radius: 6px;
+  margin: 0 auto 0 auto;
+  padding: 0px 0px 70px 0px;
+  border: #2980b9 4px solid;
+}
+.box2 {
+  background: white;
+  position: relative;
+  top: 0%;
+  width: 300px;
+  border-radius: 6px;
+  margin: 0 auto 0 auto;
+  padding: 0px 0px 200px 0px;
+  border: #2980b9 4px solid;
+}
+fieldset {
+  margin-top: 10px;
+}
+.clock-in {
+  background: #2ecc71;
+  width: 125px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  border-radius: 4px;
+  border: #27ae60 1px solid;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  float: left;
+  margin-left: 88px;
+  font-weight: 800;
+  font-size: 0.8em;
+}
+.clock-out {
+  background: #cc2e2e;
+  width: 125px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  border-radius: 4px;
+  border: #27ae60 1px solid;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  float: left;
+  margin-left: 88px;
+  font-weight: 800;
+  font-size: 0.8em;
+}
+.clock {
+  background: #2ecc70;
+  width: 250px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  border-radius: 4px;
+  border: #27ae60 1px solid;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-left: 25px;
+  font-weight: 800;
+  font-size: 0.8em;
+}
+.div1 {
+  background-color: #ecf0f1;
+  width: 250px;
+  height: 20px;
+  border: 1px solid green;
+  margin-left: 25px;
+}
+.div2 {
+  background-color: #ecf0f1;
+  width: 250px;
+  height: 20px;
+  border: 1px solid red;
+  margin-left: 25px;
+}
